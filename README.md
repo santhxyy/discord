@@ -1,0 +1,2 @@
+# discord
+Byte Core server
