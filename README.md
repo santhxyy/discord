@@ -6,7 +6,7 @@
 # 🖥️ ByteCore — Comunidade de Programação
 
 [![Discord](https://img.shields.io/badge/Discord-ByteCore-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BWxJkvQg5)
-[![Membros](https://img.shields.io/badge/Membros-10-00D26A?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BWxJkvQg5)
+[![Membros](https://img.shields.io/badge/Membros-31-00D26A?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BWxJkvQg5)
 [![Status](https://img.shields.io/badge/Status-Ativo-00D26A?style=for-the-badge)](#)
 
 ### 🚀 Um espaço feito por devs, para devs!
