@@ -5,8 +5,8 @@
 
 # 🖥️ ByteCore — Comunidade de Programação
 
-[![Discord](https://img.shields.io/badge/Discord-ByteCore-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BWxJkvQg5)
-[![Membros](https://img.shields.io/badge/Membros-31-00D26A?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BWxJkvQg5)
+[![Discord](https://img.shields.io/badge/Discord-ByteCore-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3Vedy3FD2)
+[![Membros](https://img.shields.io/badge/Membros-31-00D26A?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3Vedy3FD2)
 [![Status](https://img.shields.io/badge/Status-Ativo-00D26A?style=for-the-badge)](#)
 
 ### 🚀 Um espaço feito por devs, para devs!
@@ -14,7 +14,7 @@
 
 <br>
 
-[![Entrar no Servidor](https://img.shields.io/badge/👉%20ENTRAR%20NO%20SERVIDOR-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BWxJkvQg5)
+[![Entrar no Servidor](https://img.shields.io/badge/👉%20ENTRAR%20NO%20SERVIDOR-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3Vedy3FD2)
 
 </div>
 
@@ -83,7 +83,7 @@ Temos um canal exclusivo com **materiais selecionados** para te ajudar nos estud
 
 ### 👇 Clique e entre agora!
 
-[![Entrar no ByteCore](https://img.shields.io/badge/ENTRAR%20NO%20BYTECORE-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BWxJkvQg5)
+[![Entrar no ByteCore](https://img.shields.io/badge/ENTRAR%20NO%20BYTECORE-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3Vedy3FD2)
 
 <br>
 
