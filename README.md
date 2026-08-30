@@ -6,7 +6,7 @@
 <br>
 
 [![Discord](https://img.shields.io/badge/Discord-ByteCore-0a192f?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3Vedy3FD2)
-[![Members](https://img.shields.io/badge/Members-74-00D26A?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3Vedy3FD2)
+[![Members](https://img.shields.io/badge/Members-80-00D26A?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3Vedy3FD2)
 
 <br>
 
