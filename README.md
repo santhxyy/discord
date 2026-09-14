@@ -1,96 +1,70 @@
 <div align="center">
 
-# 🖥️ ByteCore
-### Programming & Technology Community
+  # ⚡ BYTECORE 💙
+  **The ultimate ecosystem for Coding, Networking, and Gaming**
 
-<br>
+  [![Discord Shield](https://img.shields.io/badge/Discord-102_Members-0066FF?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BWVU9cGtEF)
+  [![Theme Shield](https://img.shields.io/badge/Aesthetic-Cyber%20Blue-00D2FF?style=for-the-badge)](https://discord.gg/BWVU9cGtEF)
+  [![Community Shield](https://img.shields.io/badge/Status-Active-blue?style=for-the-badge)](https://discord.gg/BWVU9cGtEF)
 
-[![Discord](https://img.shields.io/badge/Discord-ByteCore-0a192f?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3Vedy3FD2)
-[![Members](https://img.shields.io/badge/Members-80-00D26A?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3Vedy3FD2)
+  ---
 
-<br>
+  <p align="center">
+    A space built by and for developers, creators, and gamers. Whether you are a beginner writing your first <code>Hello World</code> or a senior engineer, <b>ByteCore</b> is your home to grow.
+  </p>
 
-> **A space built by devs, for devs.**
-> Here we learn, share, and grow together.
-
-<br>
-
-[![🚀 JOIN THE SERVER](https://img.shields.io/badge/🚀%20JOIN%20THE%20SERVER-0a192f?style=for-the-badge&logo=discord&logoColor=white&labelColor=1e293b)](https://discord.gg/3Vedy3FD2)
-
----
-
-## 💡 About ByteCore
-
-**ByteCore** is your new development environment. Whether you're taking your first steps or tackling advanced challenges, here you'll find:
-
-- 🧠 Real, practical **knowledge exchange**.
-- 🤝 **Humanized support** for your questions.
-- 🚀 **Networking** with professionals who live for code.
-
-If you love programming, this is your place. ⚡
-
----
-
-## 💻 Language Ecosystem
-
-Focused discussions and activities on the top technologies:
-
-| Language | Where It Shines |
-| :--- | :--- |
-| ☕ **Java** | Robust backend, Android, and Enterprise |
-| 🐘 **PHP** | Dynamic web, APIs, and legacy systems |
-| ⚡ **JavaScript** | King of the web (Front & Back with Node.js) |
-| 🐍 **Python** | Data Science, AI, Automation, and Scripts |
-| ⚙️ **Assembly** | Low-level, performance, and architecture |
-
----
-
-## 📚 Study Library
-
-Exclusive access to curated materials to speed up your journey:
-
-- 📄 Reliable **Docs & Articles**
-- 🎥 Recommended **Videos & Courses** by the community
-- 📘 Free high-quality **E-books**
-- 🛠️ Essential **Tools** for the daily grind
-
----
-
-## 🎯 Why join ByteCore?
-
-✅ **Full focus** on programming and career growth  
-✅ **Organized channels** so you never get lost  
-✅ **Safe environment** to ask anything  
-✅ **Active community** ready to help  
-
----
-
-## 🚀 How to start?
-
-It's simple:
-
-1. Click the button below to join.
-2. Read the quick rules in the welcome channel.
-3. Pick your favorite language `role`.
-4. Start chatting and learning!
-
-<br>
-
-[![🔵 JOIN BYTECORE NOW](https://img.shields.io/badge/🔵%20JOIN%20BYTECORE%20NOW-0a192f?style=for-the-badge&logo=discord&logoColor=white&labelColor=1e293b)](https://discord.gg/3Vedy3FD2)
-
-<br>
-
-*More devs, stronger community!* 🔥  
-*Invite that friend who codes too!* 😄
-
----
-
-<div align="center">
-
-Made with ❤️ by the **ByteCore** team
-
-⭐ *If this server helped you, leave some positive feedback!* ⭐
+  <a href="https://discord.gg/BWVU9cGtEF">
+    <img src="https://img.shields.io/badge/🔗_JOIN_THE_SERVER_NOW-0066FF?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord" />
+  </a>
 
 </div>
 
-</div>
+---
+
+## 🔹 ABOUT THE SERVER
+
+**ByteCore** is a technology and entertainment community wrapped in a sleek *cyber blue* aesthetic. Our goal is to connect practical coding experience, professional networking, and a vibrant gaming hub under one roof.
+
+---
+
+## 🛠️ WHAT YOU WILL FIND IN BYTECORE
+
+### 💻 1. Coding & Development
+* 🧠 **Bi-weekly Code Challenges:** Logic exercises designed for any programming language, with top participants earning the exclusive `@Dev of the Month` role.
+* 💬 **Tips & Architecture:** Dedicated channels to troubleshoot bugs, ask syntax questions, and discuss current tech trends.
+* 🐙 **Portfolio Showcase:** A space to share your projects, GitHub repositories, and LinkedIn profile.
+
+### 🌐 2. Networking & Community
+* 🚀 **Career Advice:** Exchange knowledge about the job market, open tech positions, and interview prep.
+* 👥 **Custom Onboarding:** Pick your languages, interests, and roles right as you step in.
+* 🎨 **Art & Design:** Showcase UI/UX designs, pixel art, and creative visual projects.
+
+### 🎮 3. Gaming & Entertainment
+* ⚔️ **Game Recommendations:** Weekly summaries and reviews of the top releases (RPGs, FPS, Fighting, and Indies).
+* 🕹️ **Fighting & Open World Hub:** Dedicated channels to find lobbies and squad up for games like *Valorant*, *CS2*, *Fatal Fury*, *Resident Evil*, and *Zelda*.
+* 🏆 **Clips & Setups:** Share your best gaming clips and show off your battle station setup.
+
+---
+
+## 📌 SERVER STRUCTURE
+
+```text
+📂 BYTECORE 💙
+├── 📢 │ announcements-and-news
+├── 📜 │ rules-and-roles
+├── 💬 │ general-chat
+│
+├── 💻 │ CODING & TECH
+│   ├── 🧠 │ code-challenges
+│   ├── 🛠️ │ tech-support
+│   └── 🐙 │ share-your-github
+│
+├── 🎮 │ GAMES & COMMUNITY
+│   ├── 🎮 │ game-recommendations
+│   ├── 🥊 │ fighting-games
+│   ├── 🌐 │ rpg-and-open-world
+│   └── 📸 │ clips-and-setups
+│
+└── 🔊 │ VOICE CHANNELS
+    ├── 💻 │ Dev Lounge
+    └── 🎮 │ Squad 01 / 02
