@@ -3,7 +3,7 @@
   # ⚡ BYTECORE 💙
   **The ultimate ecosystem for Coding, Networking, and Gaming**
 
-  [![Discord Shield](https://img.shields.io/badge/Discord-102_Members-0066FF?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BWVU9cGtEF)
+  [![Discord Shield](https://img.shields.io/badge/Discord-109_Members-0066FF?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BWVU9cGtEF)
   [![Theme Shield](https://img.shields.io/badge/Aesthetic-Cyber%20Blue-00D2FF?style=for-the-badge)](https://discord.gg/BWVU9cGtEF)
   [![Community Shield](https://img.shields.io/badge/Status-Active-blue?style=for-the-badge)](https://discord.gg/BWVU9cGtEF)
 
